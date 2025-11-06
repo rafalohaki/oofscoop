@@ -1,6 +1,6 @@
 {
     "description": "High-performance, embeddable, polyglot Virtual Machine for JVM-langs (Java, Scala, Kotlin), JavaScript/NodeJS, Python, Ruby, R, and LLVM-langs (C, C++, Rust)",
-    "version": "25.0.0",
+    "version": "25.0.1",
     "homepage": "https://www.graalvm.org/",
     "license": "GPL-2.0",
     "url": "https://github.com/graalvm/graalvm-ce-builds/releases/download/jdk-25.0.1/graalvm-community-jdk-25.0.1_windows-x64_bin.zip",
